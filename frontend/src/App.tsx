@@ -8,6 +8,7 @@ import { CompletEditor } from './pages/EditorApp'
 function App() {
   return (
     <>
+    <div>hi</div>
     <BrowserRouter>
     <Routes>
       <Route path='/signin' element={<Signinfinal/>}></Route>
