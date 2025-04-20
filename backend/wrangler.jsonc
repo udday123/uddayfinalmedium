@@ -9,7 +9,7 @@
   "vars": {
     "DATABASE_URL":"prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMGM3N2E0ZjktOGUxOC00Y2IxLTk5YjAtMGJkOTQwOTExMmNhIiwidGVuYW50X2lkIjoiNWUzNGQ5MWY3NmI5YzlkNTUxYWRlYzc1MDNmMmE5ODM2YTJmODNlY2QwODI0ZTA2M2VkMzU3MTRlY2EzY2JjMiIsImludGVybmFsX3NlY3JldCI6IjdiNjgwOWFhLWNjMmUtNDQxZi1iNzU2LThlN2JjNDcyODI2MCJ9.-5LtZGJz9bHlmVSoGB8rbN3mkBCYziDZEescha1TQic",
     "JWT_SECRET":"ABC"
-  }
+  },
   // "kv_namespaces": [
   //   {
   //     "binding": "MY_KV_NAMESPACE",
